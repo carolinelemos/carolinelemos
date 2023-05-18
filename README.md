@@ -1,4 +1,13 @@
-<img width=100% src="https://i.postimg.cc/GhxpFR2m/Hello-i-am-Caroline-1.gif](https://camo.githubusercontent.com/3627c8c5c98aca844ff293f20bc6a09298ea8a771d6eb82075e4a3841b1159fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d686561646572"/>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=993399&height=100&section=top&fontSize=90#)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolinelemos&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD44CD&center=true&vCenter=true&width=850&height=50&lines=Hello!+Welcome+to+my+profile.+%3A);My+name+is+Caroline.;I'm+a+student+of+Internet+Systems." alt="Typing SVG" /></a>
+
+
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolinelemos&bg_color=0c1114&color=bd2cfc&line=c42cf5&point=ffffa4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=993399&height=100&section=footer&fontSize=90)
